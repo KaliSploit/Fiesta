@@ -1,3 +1,4 @@
+figlet YunCo
 print LINUX KILL
 loop = 1
 while loop <= 99999999:
