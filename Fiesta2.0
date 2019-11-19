@@ -1,0 +1,5 @@
+print LINUX KILL
+loop = 1
+while loop <= 99999999:
+	print (loop)
+	loop = loop + 1
